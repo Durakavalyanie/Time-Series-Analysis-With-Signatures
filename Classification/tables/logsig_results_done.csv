@@ -1,0 +1,12 @@
+Dataset,Accuracy on orig test,Mean Accuracy ± Variance,sig_len,hidden_layers
+EthanolConcentration,"27,4",27.5 ± 0.1,120,1024-512-256-128-64
+FaceDetection,"51,6",51.6 ± 0.0,1323,1024-512-256-128-64
+Handwriting,34,34.1 ± 0.0,241,128-64
+Heartbeat,"71,7",72.3 ± 0.1,1953,512-256-128-64
+JapaneseVowels,"84,6",84.6 ± 0.0,102,256-128-64
+PEMS-SF,"80,9",81.1 ± 0.1,116282,128-64
+SelfRegulationSCP1,"67,2",67.2 ± 0.1,91,512-256-128-64
+SelfRegulationSCP2,"53,9",53.8 ± 0.1,606,512-256-128-64
+SpokenArabicDigits,"96,7",96.7 ± 0.0,507,256-128-64
+UWaveGestureLibrary,"80,6",80.9 ± 0.0,241,1024-512-256-128-64
+,"64,86",,,
